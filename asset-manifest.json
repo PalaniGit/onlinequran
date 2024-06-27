@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OnlineQuran/static/css/main.29c46549.css",
+    "main.js": "/OnlineQuran/static/js/main.0509a92e.js",
+    "static/js/453.ed3810f9.chunk.js": "/OnlineQuran/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/OnlineQuran/index.html",
+    "main.29c46549.css.map": "/OnlineQuran/static/css/main.29c46549.css.map",
+    "main.0509a92e.js.map": "/OnlineQuran/static/js/main.0509a92e.js.map",
+    "453.ed3810f9.chunk.js.map": "/OnlineQuran/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c46549.css",
+    "static/js/main.0509a92e.js"
+  ]
+}
